@@ -1,2 +1,0 @@
-# habitplusplus
-https://habitplusplus.cc
